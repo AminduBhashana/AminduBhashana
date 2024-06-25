@@ -1,18 +1,37 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+there...+👋;I'm+Amindu+Bhashana)](https://git.io/typing-svg)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<h1 align="center">Hi 👋, I'm Amindu Bhashana</h1>
+<h3 align="center">A passionate computer science undergraduate from Sri lanka</h3>
+<p align="center">
+  🚀 I specialize in creating impactful mobile applications using Flutter and Kotlin.
+  🌐 Besides mobile app development, I'm also a Data Science and AI enthusiast. I love diving into data, uncovering insights, and building intelligent systems that can solve real-world problems.
+</p>
+<p align="center">
+   I passionate to explore new tech stacks and leverage them to build innovative and exciting projects.
+</p>
+<p align="center">
+  💻 Let's collaborate and create something amazing together!
+</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=AminduBhashana&label=Profile%20views&color=0e75b6&style=flat" alt="Amindu Bhashana" /> 
+</p>
 
 <!--
 **AminduBhashana/AminduBhashana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## I'm a Computer Sceince Student.
 
-- 🌱 I’m currently learning Dart,Flutter.
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/amindu-bhashana-a44902225/)
-- 💬 Talk to me about cricket, python & Mobile App Development.
+<!-- - 🔭 I’m currently working on **UA IT(JKH IT)**-->
 
+- 🌱 I’m currently learning **AI and Machine Learning**
 
-## 😎About Me
+- 💬 Ask me about **Mobile App Development(Flutter/Kotlin), Machine Learning, Java and Python**
 
-I'm **Amindu Bhashana**. I'm a Computer Sceience Undergraduate in University of Kelaniya. I am interested on Mobile App Development,Web App Development & Data Sceience.
+- 📫 How to reach me **waamidu@gmail.com**
+
+<!-- - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)-->
+
+- ⚡ Fun fact **I Love to watch and analyse cricket**
+
 
 ### Connect With Me:
 
