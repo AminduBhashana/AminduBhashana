@@ -189,5 +189,13 @@
   </table>
 </div>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AminduBhashana&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
 
 
