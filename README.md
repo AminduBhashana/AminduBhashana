@@ -175,9 +175,19 @@
 
 ###
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3 align="left">GitHub Stats</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=AminduBhashana&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=AminduBhashana&theme=midnight-purple" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-## MY GITHUB STATS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AminduBhashana&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
