@@ -36,11 +36,21 @@
 - ⚡ Fun fact **I Love to watch and analyse cricket**
 
 
-### Connect With Me:
+<h3 align="left">Connect with Me</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-AminduBhashana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amindu-bhashana-a44902225/)](https://www.linkedin.com/in/amindu-bhashana-a44902225)
-&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-waamidu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:waamidu@gmail.com)](mailto:waamidu@gmail.com)
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/amindu-bhashana-a44902225" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="waamidu@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
 
 ## SKILLS & TOOLS
 
