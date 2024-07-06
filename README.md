@@ -180,10 +180,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AminduBhashana&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AminduBhashana&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues" height="200"/>
       </td>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminduBhashana&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminduBhashana&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" height="200"/>
       </td>
     </tr>
   </table>
