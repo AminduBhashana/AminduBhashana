@@ -183,10 +183,11 @@
         <img src="https://github-readme-stats.vercel.app/api?username=AminduBhashana&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com/?user=AminduBhashana&theme=midnight-purple" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminduBhashana&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
       </td>
     </tr>
   </table>
+  <p align="center"> <img src="https://streak-stats.demolab.com/?user=AminduBhashana&theme=midnight-purple" /></p>
 </div>
 
 ###
