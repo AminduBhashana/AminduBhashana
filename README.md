@@ -47,7 +47,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 
 <h3 align="left">Certifications:</h3>
 <div>
@@ -56,10 +56,10 @@
 </div>
 <br/><br/>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 
 ###
-<h2 align="center">Languages and Tools</h2>
+<!--<h2 align="center">Languages and Tools</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -169,7 +169,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
   <img width="12" /> 
   
-</div>
+</div> -->
 
 ###
 
