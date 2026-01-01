@@ -56,7 +56,6 @@
 </div>
 <br/><br/>
 
-<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 
 ###
 <!--<h2 align="center">Languages and Tools</h2>
